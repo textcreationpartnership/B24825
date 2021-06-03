@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords Justices and Council. Mich. Armach. C. Granard. Whereas several of the most considerable merchants, residing in, and about this city of Dublin, and other the cities, corporations, and trading-ports of this kingdom,</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24825</idno><idno type="EEBO-CITATION">99886318</idno>
+  <idno type="VID">186579</idno>
+  <idno type="EEBO-PROQUEST">2240900144</idno>
+  
+            <idno type="STC">Wing I872</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[7]</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R225827</idno>
+            <idno type="STC">ESTC R227881</idno>
+            <idno type="PROQUEST">ocm99886318</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886318e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186579)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords Justices and Council. Mich. Armach. C. Granard. Whereas several of the most considerable merchants, residing in, and about this city of Dublin, and other the cities, corporations, and trading-ports of this kingdom,</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Granard, Arthur Forbes, Earl of, 1623-1696.</author>
+               </titleStmt>
+               <extent>4 sheets ([4] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Took, printer to the Kings most excellent Majesty; and are to be sold by Samuel Helsham at the Colledge-Arms in Castle-street,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>[1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>At end of text: Given at the Council-chamber in Dublin this 12th, day of June 1685.</note>
+                  <note>On the petition of the merchants as to the fraudulent practices of butter packers and coopers ... -- Steele.</note>
+                  <note>Steele notation: Arms 185. consi- only p.2) and p.3) twelve p.4) the de-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coopers and cooperage --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Butter --  Ireland --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1649-1775 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  Politics and government --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186579:1"/>
+            <head>BY THE LORDS JUSTICES AND COUNCIL.</head>
+            <opener>
+               <signed>Mich. Armach. C. Granard.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS several of the most consi<g ref="char:EOLhyphen"/>derable Merchants, residing in, and a<g ref="char:EOLhyphen"/>bout this City of <hi>Dublin,</hi> and other the Cities, Corporations, and Tra<g ref="char:EOLhyphen"/>ding-Ports of this Kingdom, have of late, in the behalf of themselves, and other the Merchants thereof, preferred their humble Petition to this Board, thereby setting forth, that Butter be<g ref="char:EOLhyphen"/>ing one of the principal Commodities of the product of this Kingdom, and not only of an universal use, and expence at home, but being likewise transported in very great quan<g ref="char:EOLhyphen"/>tities to parts beyond the Seas, from whence, of all others, it makes the greatest return in Moneys, to the manifest ad<g ref="char:EOLhyphen"/>vancement of his Majesties Revenue, and enriching of the Subjects of this his Kingdom, is nevertheless, by the fra<g ref="char:EOLhyphen"/>dulent Dealing and Practice of several Farmers, Owners, and
+<pb facs="tcp:186579:2"/> Packers of Butter, and by Combination between them, and the Coopers, and makers of Casque, to the great Wrong and Abuse of His Majesty in Victualling of his Navy, of Merchants in Victualling of their Ships, of all Traders in the said Commodity, of all Housholders who buy the same for their Expence, and to the great Dishonour of this Na<g ref="char:EOLhyphen"/>tion, in Parts beyond the Seas, brought into great disrepute abroad, whereby it yields not that price, nor is vented there in such quantities as otherwise it would; by means where<g ref="char:EOLhyphen"/>of, the Petititioners are at great uncertainties as to the re<g ref="char:EOLhyphen"/>turns, &amp; their Agents &amp; Factors abroad oftentimes fined &amp; impri<g ref="char:EOLhyphen"/>soned by the Magistrates and Governours in Forreign parts, where the said Butter is by them exposed to sale, as the Petitioners have by divers Letters from their Correspondents, and Proofs, &amp; Testimonies, made appear unto us; The Coopers and Makers of Casque oftentimes making their Casque, wherein Butter is to be Packed, of green and unseasoned Timber, and the staves, and Bottoms of them so thick, that a Firkin, which ought not to weigh above Ten Pounds, doth commonly weigh from sixteen, to Twenty Pounds; and the half Barrel, which ought not in weight to exceed Twenty Pounds, doth commonly weigh, from Thirty to Forty; so that the Merchant is not only defrauded in the weight, but the Butter becomes unfit for common use, and not Mer<g ref="char:EOLhyphen"/>chantable, contracting both a bad taste and smell, from the Sap which cometh from the green and unseasoned Timber of the Casque,; so that the Trade aforesaid, was in all probability likely to be utterly lost, to the very great lessening of his Majesties Revenue, and the unsufferable prejudice of his Sub<g ref="char:EOLhyphen"/>jects in this his Kingdom, as aforesaid.</p>
+            <p>And whereas the said Merchants did by their said Petiti<g ref="char:EOLhyphen"/>on for preventing the Abuses aforesaid, and avoiding of the mischiefs that may ensue thereon, humbly propose the follow<g ref="char:EOLhyphen"/>ing Expedients, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>1st.</hi> That all Butter Casque be made stanch, and tight at both ends, neatly hooped, and of well seasoned Timber, either of Ash or Oake, fit for that purpose.</p>
+            <p n="2">2. That no Butter Casque be made to contain One Hun<g ref="char:EOLhyphen"/>dred Weight of Butter, and no more, that shall with the Heads and Hoops thereof weigh more than Twenty Pound, and so the Weight to be proportionable of a greater or lesser Casque.</p>
+            <p n="3">3. That all Butter Casque be made by certain Standards, &amp; to contain as followeth, <hi>viz.</hi> The Barrel to contain two hundred and
+<pb facs="tcp:186579:3"/> twenty four pound; and the Kilderkin one hundred and twelve pound, and the Ferkin to contain fifty six pounds of neat Butter and no more, besides the Casque.</p>
+            <p n="4">4. That every Cooper do brand in fair Characters, on the head of all the Butter Casque which he shall make, or cause to be made (the said Vessels being first seasoned in Water) the first Letters of his or their Christian name, and his or their Surname at length, with the name of the Corpora<g ref="char:EOLhyphen"/>tion, Mannour, Town, or Village where he dwells, before such Casque be exposed to sale.</p>
+            <p n="5">5. That all Owners, Makers, and Packers of Butter, do make, pack, or sell none, but sound and Merchantable Butter, without mixing the same with Immoderate quanti<g ref="char:EOLhyphen"/>ties of Salt.</p>
+            <p n="6">6. That the first Owner, Maker, or Packer of Butter, do brand in fair Characters on the side of the Casque, wherein he or they shall cause his or their Butter to be Packed, the first Letter of his or their Christian name, with their Sirname, and the name of the Corporation, Mannor, Town or Village, where<g ref="char:EOLhyphen"/>in he or they dwell, at the time of his or their making and pack<g ref="char:EOLhyphen"/>ing the same.</p>
+            <p n="7">7. That all Magistrates of Corporations, Iustices of the Peace, and Seneschals of Mannors, be required to give charge at their General Sessions, Courts Leet, and Courts Baron, unto their Iurors to present all Coopers, and all makers and packers of Butter, that shall not conform unto the Rules aforesaid.</p>
+            <p>Now We the Lords-Iustices, and Council, having taken the premisses into consideration, and well weighing the great ha<g ref="char:EOLhyphen"/>zard the said Trade of Butter is in, of being utterly lost, to the lessening of his Majesties Revenue, and detriment of his Subjects in this his Kingdom, in case the same be not speedi<g ref="char:EOLhyphen"/>ly prevented. And having likewise taken into consideration, one Act of Parliament, made and Enacted at <hi>Westminster,</hi> in the 14th year of the Reign of his late Majesty King <hi>Charles</hi> the Second of Blessed Memory, Intituled, <hi>Abuses committed in the weight and false packing of Butter reformed.</hi> And find<g ref="char:EOLhyphen"/>ing lidewise the Expedients, and Rules offered by the Peti<g ref="char:EOLhyphen"/>tioners, for preventing and remedying the Abuses aforesaid, to agree, and be conformable to the Rules and Expedients prescribed and Enacted by the makers of the said Act, in the Body thereof, for the prevention of the abuses aforesaid, and which if duly observed, may tend much to the encrease of the
+<pb facs="tcp:186579:4"/> Trade and Traffick of this Realm, and the reputation of the Butter of this Kingdom, that shall be Transported to Forreign Parts. Do think fit hereby to approve of the said Rules and Ex<g ref="char:EOLhyphen"/>pedients herein above mentioned, and offered as aforesaid. And We do hereby strictly charge and require that from and af<g ref="char:EOLhyphen"/>ter the Nine and Twentieth day of <hi>September</hi> next the said Rules, and Directions shall be duely observed, and complied with, by all Coopers, and others, who shall hereafter make or sell any Casque for Butter, and also by all other Persons who shall hereafter make up or pack any Butter for Sale, and also by all Merchants, who shall Transport any But<g ref="char:EOLhyphen"/>ter into Forreign Parts, as they and every of them will an<g ref="char:EOLhyphen"/>swer the contrary at their utmost perils. And We do strict<g ref="char:EOLhyphen"/>ly charge and command all and every the Iustices of the Peace in and throughout the several Counties of this King<g ref="char:EOLhyphen"/>dom, as also all Mayors, Portrives, Soveraigns, Bayliffs, and other Magistrates, and head Officers of all Cities, Bur<g ref="char:EOLhyphen"/>roughs, and Corporrations, and all Seneschals of any Man<g ref="char:EOLhyphen"/>nors to give the same in charge unto their Iurors, at their general Sessions, and at their Courts Leet, and Courts Ba<g ref="char:EOLhyphen"/>ron, and to use their utmost diligence, to have such as shall transgress the said Rules and Directions, after the said nine and twentieth day of <hi>September</hi> next to be proceeded against as Persons guilty of fraud and deceipt, in their several Trades and Mysteries, contemners of his Majesties Authority, and de<g ref="char:EOLhyphen"/>stroyers of the Trade of this Kingdom.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Council-Chamber in <hi>Dublin</hi>
+                  </hi>
+                  <date>
+                     <hi>this 12th. day of <hi>June</hi>
+                     </hi> 1685.</date>
+               </dateline>
+               <signed>Franc. Dublin. Longford. Cha. Fielding Char. Meredith John Keating. He Hene. Ric. Reynell. Tho. Newcomen.</signed>
+               <hi>GOD Save the KING</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Benjamin Took,</hi> Printer to the Kings Most Excel<g ref="char:EOLhyphen"/>lent Majesty; And are to be Sold by <hi>Samuel Helsham</hi> at the <hi>Colledge-Arms</hi> in <hi>Castle-street.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
